@@ -1,0 +1,7 @@
+*~
+.idea
+nbproject
+/includes/configuration/configuration.inc.php
+.DS_Store
+*.orig
+healtzen.backup
